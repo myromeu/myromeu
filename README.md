@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on video broadcasting system
+- 🔭 I’m currently working on video broadcasting system.
 - 🌱 I’m currently learning rust web and system development. Current course in progress: [talent-plan](https://github.com/myromeu/talent-plan-progress).
 
 <!--
