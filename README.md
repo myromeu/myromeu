@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on video broadcasting system
+- 🌱 I’m currently learning rust web and system development. Current course in progress: [talent-plan](https://github.com/myromeu/talent-plan-progress).
+
 <!--
 **myromeu/myromeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on video broadcasting system
-- 🌱 I’m currently learning rust web and system development. Current course in progress: [talent-plan](https://github.com/myromeu/talent-plan-progress).
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
